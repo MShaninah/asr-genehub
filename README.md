@@ -1,4 +1,4 @@
-# Syrian ASR & Keyword Extraction Engine (`genehub_model.py`)
+# Syrian ASR & Keyword Extraction Engine
 
 A comprehensive, production-ready speech-to-text and semantic keyword extraction engine specifically optimized for the **Syrian Arabic dialect**. 
 
